@@ -1,11 +1,5 @@
 <html>
-  <style> 
-    .introduction { 
-      background-color: rgba(25,75,150,0.7); 
-      width:800px;
-      text-align:justify; 
-      } 
-    </style>
+ 
   <body>
  
  
