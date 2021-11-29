@@ -1,9 +1,6 @@
 <html>
  
   <body>
- 
- 
-###Features
     <h1>Gerenciamento de Cinema</h1>
     <div class="introduction">
     <h2>Introdução</h2>
